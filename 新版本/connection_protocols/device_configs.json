@@ -1,0 +1,14 @@
+{
+  "1": {
+    "device_name": "1",
+    "protocols": [
+      {
+        "protocol": "ssh",
+        "ip": "192.168.226.147",
+        "port": 22,
+        "username": "root",
+        "password": "root"
+      }
+    ]
+  }
+}

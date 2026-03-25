@@ -1,0 +1,87 @@
+{
+  "设备2": {
+    "device_name": "设备2",
+    "protocols": [
+      {
+        "protocol": "ssh",
+        "ip": "192.168.226.147",
+        "port": 22,
+        "username": "root",
+        "password": "root"
+      },
+      {
+        "protocol": "telnet",
+        "ip": "192.168.226.147",
+        "port": 23,
+        "username": "root",
+        "password": "root",
+        "baud_rate": 9600
+      },
+      {
+        "protocol": "serial",
+        "com_port": "COM1",
+        "baud_rate": 9600,
+        "bytesize": 8,
+        "parity": "无",
+        "stopbits": 1.0
+      },
+      {
+        "protocol": "ftp",
+        "ip": "192.168.226.10",
+        "port": "21",
+        "username": "root",
+        "password": "root"
+      },
+      {
+        "protocol": "sftp",
+        "ip": "192.168.226.147",
+        "port": 22,
+        "username": "root",
+        "password": "root"
+      }
+    ]
+  },
+  "11111": {
+    "device_name": "11111",
+    "protocols": [
+      {
+        "protocol": "ssh",
+        "ip": "192.168.226.146",
+        "port": 22,
+        "username": "root",
+        "password": "root"
+      },
+      {
+        "protocol": "telnet",
+        "ip": "192.168.226.146",
+        "port": 23,
+        "username": "root",
+        "password": "root",
+        "baud_rate": 9600
+      },
+      {
+        "protocol": "serial",
+        "com_port": "COM1",
+        "baud_rate": 9600,
+        "bytesize": 8,
+        "parity": "无",
+        "stopbits": 1.0
+      },
+      {
+        "protocol": "FTP",
+        "ip": "192.168.226.19",
+        "port": "21",
+        "username": "root",
+        "password": "root"
+      },
+      {
+        "protocol": "sftp",
+        "ip": "192.168.226.146",
+        "port": "22",
+        "username": "root",
+        "password": "root"
+      }
+    ],
+    "last_refresh": "2026-02-07 23:47:20"
+  }
+}
